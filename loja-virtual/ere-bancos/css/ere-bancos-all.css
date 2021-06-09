@@ -471,6 +471,7 @@ span.balancoValor.descontoCarrinho {
     font-weight: bold;
     padding: 0px 0px 5px 0px;
     text-align: center;
+    width: 210px;
 }
 
 .mega-col-inner {
