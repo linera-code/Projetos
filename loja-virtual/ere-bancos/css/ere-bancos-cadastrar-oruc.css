@@ -1,1 +1,85 @@
+#breadcrumb {
+    display: none;
+}
 
+.content.content-page {margin: 10px 0px 0px 0px;border-radius: 3px;box-shadow: 0 0 5px rgb(0 0 0 / 50%);background: #272727;border-top: 2px solid #212121;font-family: 'Roboto';color: #fff;}
+
+
+.categories.clearfix h1 {color: #fff;}
+
+.title_block.text-center {
+    color: #fff;
+    border-bottom: 1px solid #ff7433;
+}
+
+#tabCadastroPessoaFisica {
+    color: #fff;
+}
+
+.icon-square-o {color: #ff7433;}
+
+#tabCadastroPessoaJuridica {
+    color: #fff;
+}
+
+.required {color: #ff7433;}
+
+.controls .input-lg {
+    background: #212121;
+    color: #fff;
+    border: 1px solid #ff7433;
+    border-radius: 3px;
+    outline: none;
+}
+
+.controls .input-lg::placeholder {
+    color: #fff;
+}
+
+option {
+}
+
+#account-email:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 20px #212121 inset;
+    transition: none !important;
+    -webkit-text-fill-color: #fff;
+}
+
+.controls .input-lg:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 25px #212121 inset;
+    transition: none !important;
+    -webkit-text-fill-color: #fff;
+}
+
+#cep {
+    background-color: #212121 !important;
+}
+
+span.btn.btn-cep.btn-grey.btn-lg {
+    background: #212121;
+    border: 1px solid #ff7433;
+    border-radius: 3px;
+    margin: 0px 0px 0px 10px;
+}
+
+span.btn.btn-cep.btn-grey.btn-lg:hover {
+    color: #fff;
+    background: #9e471e;
+}
+
+#complemento {
+    background: #212121 !important;
+}
+
+#referencia {
+    background: #212121 !important;
+}
+
+button.btn-expand.btn-lg.btn.btn-default.btn-cadastrar:hover {
+    background: #9e471e;
+    border-color: #9e471e;
+}
+
+button.btn-expand.btn-lg.btn.btn-default.btn-cadastrar {
+    border-radius: 3px;
+}
