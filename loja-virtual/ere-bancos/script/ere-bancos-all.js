@@ -47,7 +47,7 @@ $(document).ready(function () {
         var Link_Pagina_Selecao_De_Produto = $("<link />", {
             rel: "stylesheet",
             type: "text/css",
-            href: "https://pedrohbar.github.io/Styles/CSS_ERE_BANCOS_PAGINA_SELECAO_DE_PRODUTOS.css"
+            href: "https://linera-code.github.io/projetos/loja-virtual/ere-bancos/css/ere-bancos-pagina-selecao-de-produtos.css"
         });
 
         $("head").append(Link_Pagina_Selecao_De_Produto);
@@ -60,7 +60,7 @@ $(document).ready(function () {
         var Link_Pagina_Index = $("<link />", {
             rel: "stylesheet",
             type: "text/css",
-            href: "https://pedrohbar.github.io/Styles/CSS_ERE_BANCOS_INDEX.css"
+            href: "https://linera-code.github.io/projetos/loja-virtual/ere-bancos/css/ere-bancos-index.css"
         });
 
         $("head").append(Link_Pagina_Index);
@@ -87,7 +87,7 @@ $(document).ready(function () {
         var Link_Pagina_Identificacao = $("<link />", {
             rel: "stylesheet",
             type: "text/css",
-            href: "https://pedrohbar.github.io/Styles/CSS_ERE_BANCOS_IDENTIFICACAO.css"
+            href: "https://linera-code.github.io/projetos/loja-virtual/ere-bancos/css/ere-bancos-identificacao.css"
         });
 
         $("head").append(Link_Pagina_Identificacao);
@@ -98,7 +98,7 @@ $(document).ready(function () {
         var Link_Pagina_Cadastro = $("<link />", {
             rel: "stylesheet",
             type: "text/css",
-            href: "https://pedrohbar.github.io/Styles/CSS_ERE_BANCOS_CADASTRAR_ORC.css"
+            href: "https://linera-code.github.io/projetos/loja-virtual/ere-bancos/css/ere-bancos-cadastrar-oruc.css"
         });
 
         $("head").append(Link_Pagina_Cadastro);
