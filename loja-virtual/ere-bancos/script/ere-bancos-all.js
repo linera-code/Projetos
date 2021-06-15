@@ -55,13 +55,13 @@ $(document).ready(function () {
     }
     
     if (window.location.pathname.includes("/noticia-central-de-atendimento")) {
-        var Link_Pagina_Identificacao = $("<link />", {
+        var Link_Pagina_Central_De_Atendimento = $("<link />", {
             rel: "stylesheet",
             type: "text/css",
             href: "https://linera-code.github.io/projetos/loja-virtual/ere-bancos/css/ere-bancos-central-de-atendimento.css"
         });
 
-        $("head").append(Link_Pagina_Identificacao);
+        $("head").append(Link_Pagina_Central_De_Atendimento);
 
 
     }
