@@ -53,6 +53,18 @@ $(document).ready(function () {
         $("head").append(Link_Pagina_Selecao_De_Produto);
         $(".main-content").after($("#footer"));
     }
+    
+    if (window.location.pathname.includes("/noticia-central-de-atendimento")) {
+        var Link_Pagina_Identificacao = $("<link />", {
+            rel: "stylesheet",
+            type: "text/css",
+            href: "https://linera-code.github.io/projetos/loja-virtual/ere-bancos/css/ere-bancos-central-de-atendimento.css"
+        });
+
+        $("head").append(Link_Pagina_Identificacao);
+
+
+    }
 
 
     else if ($(".pagebuilder.clearfix")[0]) {
