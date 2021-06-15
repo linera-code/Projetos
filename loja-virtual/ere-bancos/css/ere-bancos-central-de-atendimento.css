@@ -1,0 +1,41 @@
+.content-page {
+    color: #fff;
+}
+
+.categories.clearfix h1 {
+    color: #ff7533;
+}
+
+ul.navbar.nav-atendimento li {
+    background: #1c1c1c;
+}
+
+.institucional .nav-atendimento li a:hover, .institucional .nav-atendimento li.active {
+    background: #ff5f12;
+}
+
+#assunto {
+    color: #bfbfbf;
+    background: #1c1c1c;
+}
+
+.form-control {
+    color: #fff;
+}
+
+#assunto option {
+    color: #fff;
+}
+
+.form-control::placeholder {
+    color: #bfbfbf;
+}
+
+button.btn.btn-default {
+    border-radius: 3px;
+}
+
+.btn-default:hover, .icons:hover {
+    background: #9e471e;
+    border-color: #9e471e;
+}
