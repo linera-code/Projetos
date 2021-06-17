@@ -65,6 +65,10 @@ $(document).ready(function () {
 
 
     }
+        if (window.location.pathname.includes("/noticia")) {
+            $(".content-page").css("color","#fff");
+            $(".col-lg-12.col-md-12.col-sm-12.col-xs-12 h1, h3").css("color","#fff");
+        }
 
 
     else if ($(".pagebuilder.clearfix")[0]) {
