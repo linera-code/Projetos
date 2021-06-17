@@ -69,6 +69,10 @@ $(document).ready(function () {
             $(".content-page").css("color","#fff");
             $(".col-lg-12.col-md-12.col-sm-12.col-xs-12 h1, h3").css("color","#fff");
         }
+            if (window.location.pathname.includes("/noticia-politica-de-privacidade-e-cookies")) {
+            $(".content-page").css("color","#fff");
+            $(".col-lg-12.col-md-12.col-sm-12.col-xs-12 h1, h3").css("color","#fff");
+        }
 
 
     else if ($(".pagebuilder.clearfix")[0]) {
