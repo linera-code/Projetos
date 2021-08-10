@@ -506,3 +506,8 @@ i.icon-angle-up {
 a.link-whatsapp:hover {
     color: #ff7433;
 }
+#header.bar .logo-store, #headerCheck.bar .logo-store {margin-top: 28px;}
+
+#header .logo-store img, #headerCheck .logo-store img {
+    transition: none;
+}
