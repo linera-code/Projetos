@@ -1,6 +1,6 @@
 $(document).ready(function () {
     //remover classes e ids não utilizaveis	
-    $(".caret").remove();
+     $("#header-search, .caret").remove();
     //}
 
     //esconder entrar e sair{
