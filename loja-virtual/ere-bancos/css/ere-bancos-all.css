@@ -11,6 +11,13 @@
     color: #fff;
 }
 
+.container-texto-menu {
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+    font-family: Libre Franklin;
+}
+
 .dropdown-menu.submenu-v1{
     width: calc(100% - 40px);
     overflow-y: scroll;
