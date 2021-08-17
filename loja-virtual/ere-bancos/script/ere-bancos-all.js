@@ -17,12 +17,14 @@ $(document).ready(function () {
     //}
     AdicionarDirecionadorWhatsappTopo();
 
-        //posiciona o texto AQUI ! FABRICAMOS O BANCO BUMBUM FELIZ após o logo{
-    $("#header_logo").after($(".container-texto-menu"));
-    
+   
     //posiciona os textos de logar e sair proximo ao carrinho{
     $("#header_logo").after($(".container-entrar-ou-cadastrar-carrinho"));
     $(".container-entrar-ou-cadastrar-carrinho").append($("#header-right-cart"));
+    //}
+    
+    //posiciona o texto AQUI ! FABRICAMOS O BANCO BUMBUM FELIZ após o logo{
+    $("#header_logo").after($(".container-texto-menu"));
     //}
     
 
